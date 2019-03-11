@@ -12,6 +12,7 @@ import json
 
 from functools import reduce
 
+server = app.server
 mapbox_access_token = 'pk.eyJ1IjoiY2FscmVtbWVsIiwiYSI6ImNqc25scWtiMzBkcGI0M3BtNDRrbnFvNGoifQ.qmi7OtQn6vIJbHbbTZs2MQ'
 
 # Define format for table columns, including currency formatting.
