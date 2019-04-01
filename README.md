@@ -5,7 +5,7 @@ http://burlington-app.herokuapp.com
 # Motivation
 The city of Burlington, VT provides useful open data on property ownership through its online portal. However, because it is a common practice for an LLC or other business entity to be listed as the owner of a property, it can be difficult to figure out exactly how many properties are owned by an individual or group.
 
-To address this, I performed an analysis of last names associated with properties in Burlington, VT, combining matches from directly listed property owners and principals of companies listed as owners. I geocoded the results and tagged each property with its associated city ward, enabling statistical and geospatial analysis through a custom-built dashboard and other statistical software.
+To address this, I performed an analysis of last names associated with properties in Burlington, VT, combining matches from directly listed property owners and principals of companies listed as owners with the help of Felippe Rodrigues at VTDigger. I geocoded the results and tagged each property with its associated city ward, enabling statistical and geospatial analysis through a custom-built dashboard and other statistical software.
 
 The resulting analysis revealed that there are in fact a small group of particularly dominant families and real estate agencies/moguls that own a disproportionate amount of property in Burlington, VT. Some have registered these properties in a straightforward way, while others have registered them under many different LLCs or other types of organizations.
 
